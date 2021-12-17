@@ -43,7 +43,7 @@ For example:
 For example:
 - reverse("nice", 2) = "inec"
 - reverse("google", 3) = "oogelg"
-- reverse("hello world!", 5) = " olleh!dlrdw"  
+- reverse("hello world", 5) = " ollehdlrdw"  
 
 7. Using Tail Recursion, verify if a string is a Palindrome or not.
 Example of palindromes:
